@@ -2,6 +2,10 @@
 
 A modern, responsive shopping cart application built with React. This project demonstrates routing, component structure, state management, API fetching, and clean, reusable styling.
 
+## Live Demo
+
+**Live Site URL:** [https://shopping-page.pages.dev/](https://shopping-page.pages.dev/)
+
 ## Features
 
 *   **Responsive Design:** Fully responsive layout with a focus on modern UI elements and rounded corners (12px radius)
